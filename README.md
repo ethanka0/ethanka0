@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hey there, I'm Ethan.
 ![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanka0&include_all_commits=true&custom_title=Ethan's%20stats&theme=gotham&show_icons=true&hide=contribs)
 
